@@ -1,13 +1,13 @@
-<!--
+
 ## Hi there 👋
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mengdebiao&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mengdebiao&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengdebiao)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengdebiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 <img src="https://camo.githubusercontent.com/9d8e8460bedb98da5fc32f728d5d08cf39d6027dd82c0a1e9042767c48be466f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d656e6764656269616f2673686f775f69636f6e733d74727565" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mengdebiao&amp;show_icons=true" style="max-width: 100%;">
 
