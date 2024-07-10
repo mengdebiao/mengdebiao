@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 
-[![Mengdebiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengdebiao&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mengdebiao&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengdebiao)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengdebiao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
